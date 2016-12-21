@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <name>Vidéo-projecteurs Inventory</name>
+    <key>videoprojecteurs</key>
+    <state>stable</state>
+    <logo></logo>
+    <description>
+        <short>
+            <fr><![CDATA[Gestion de vidéo-projecteur. Ce plugin vous permet de gérer les vidéo-projecteurs et de les associer à des éléments de l’inventaire.]]></fr>
+        </short>
+        <long>
+            <fr><![CDATA[Ce plugin vous permet de gérer les vidéo-projecteurs et de les associer à des éléments de l’inventaire.<br />- Utilisable depuis le helpdesk.]]></fr>
+        </long>
+    </description>
+    <homepage>https://github.com/eldiablo62/glpi_plugins_videoprojecteurs.git</homepage>
+    <download>https://github.com/eldiablo62/glpi_plugins_videoprojecteurs.git</download>
+    <issues>https://github.com/eldiablo62/glpi_plugins_videoprojecteurs.git</issues>
+    <readme>https://github.com/eldiablo62/glpi_plugins_videoprojecteurs.git</readme>
+    <authors>
+        <author>Dev</author>
+    </authors>
+    <versions>
+        <version>
+            <num>1.0.0</num>
+            <compatibility>9.1</compatibility>
+        </version>
+    </versions>
+    <langs>
+        <lang>fr_FR</lang>
+    </langs>
+    <license><![CDATA[GPL v2+]]></license>
+    <tags>
+        <fr>
+            <tag>Videoprojecteurs</tag>
+            <tag>Inventaire</tag>
+            <tag>Gestion</tag>
+        </fr>
+        <en>
+            <tag>Videoprojecteurs</tag>
+            <tag>Inventory</tag>
+            <tag>Management</tag>
+        </en>
+    </tags>
+</root>
